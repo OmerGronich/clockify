@@ -21,8 +21,8 @@ const payload = {
 }
 
 // These are offset for UTC, will actually be 9 to 18
-const startTime = '06:00';
-const endTime = '15:00';
+const startTime = '07:00';
+const endTime = '16:00';
 
 // Create a new Clockify client
 const clockify = axios.create({
